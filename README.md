@@ -1,8 +1,8 @@
 # 🤖 Local Web-Based Chatbot with Llama3 + Streamlit
-
 Build your own **local chatbot** using **Meta's Llama3**, **Streamlit**, and **LangChain** with this beginner-friendly project. This chatbot runs entirely on your machine using **Ollama** to load and interact with the LLM (no internet or API key required).
 
----
+## 📘 Course Reference
+This GitHub repository is part of my Udemy training course: [Getting Started with Gen AI: LangChain, LLAMA3 & Ollama](https://www.udemy.com/course/getting-started-with-gen-ai-langchain-llama3-ollama)
 
 ## 📌 Features
 - Simple Streamlit web interface
