@@ -1,6 +1,7 @@
 Local LLM Chatbot
 
-This project is part of the Udemy course:Getting Started with Gen AI: LangChain, LLAMA3 & Ollama
+This project is part of the Udemy course:Getting Started with Gen AI: LangChain, LLAMA3 & Ollama 
+https://www.udemy.com/course/getting-started-with-gen-ai-langchain-llama3-ollama/
 
 🔍 Overview
 
@@ -173,7 +174,4 @@ It should have:
 
 This project is licensed under the MIT License – you are free to use, modify, and distribute the code for personal or commercial purposes.
 
-🙏 Acknowledgment
-
-Developed by Gulshan Mirg as part of the Udemy course👉 Getting Started with Gen AI: LangChain, LLAMA3 & Ollama
 
